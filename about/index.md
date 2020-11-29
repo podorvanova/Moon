@@ -1,37 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About the Blog
+tags: [outreachy]
+date: 2020-11-29
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Welcome!
+Hi, I am Maria Podorvanova from Canberra, Australia, and I am newly accepted [Outreachy](https://www.outreachy.org/) intern at Apache. 
+In this blog I am going to write about my journey through Outreachy'21 winter internship.
+This winter (or Australian summer) I'll be working on the project "Add a datastore for Elasticsearch in Apache Gora". 
 
-## Preview
+## About the Project
+The main objective of this project is to add support for Elasticsearch in Apache Gora, which is one of the most used text search engines nowadays.
+I will be implementing the connection and mappings required for Elasticsearch to work in Apache Gora and Gora Explorer.
+All project tasks are listed on [cwiki.apache.org](https://cwiki.apache.org/confluence/display/GORA/Outreachy%3A+December+2020+-+March+2021).
+Once I start working on any of them, I'll try to describe it here in more details.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Contact Information
+You can send me an [email](mailto:podorvanova.maria@gmail.com).
