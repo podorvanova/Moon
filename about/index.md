@@ -7,7 +7,7 @@ comments: false
 ---
 
 ## Welcome!
-Hi, I am Maria Podorvanova from Canberra, Australia, and I am newly accepted [Outreachy](https://www.outreachy.org/) intern at Apache. 
+Hi, I am Maria Podorvanova from Canberra, Australia, and I am a newly accepted [Outreachy](https://www.outreachy.org/) intern at Apache. 
 In this blog I am going to write about my journey through Outreachy'21 winter internship.
 This winter (or Australian summer) I'll be working on the project "Add a datastore for Elasticsearch in Apache Gora". 
 
