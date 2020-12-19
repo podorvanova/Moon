@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Core Values: Outreachy Blog Post #1"
+title: "Core Values: Outreachy Post #1"
 date: 2020-12-03
 feature: 'assets/img/image1.jpg'
 tag:
